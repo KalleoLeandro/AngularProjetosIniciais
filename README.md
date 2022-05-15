@@ -1,4 +1,7 @@
-# AngularProjetosIniciais
+## Angular Exemplos
 
-##Informações iniciais
-Este repositório tem por finalidade demonstrar o uso do Angular componentes em projetos
+## Informações iniciais
+<u></u>
+
+*Este repositório tem por finalidade demonstrar o uso do Angular com componentes para projetos.
+
